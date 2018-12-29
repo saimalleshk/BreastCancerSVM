@@ -58,3 +58,14 @@ __(https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisco
 -  **With this an early study can be conducted and can be cured many patients.**
 
 -  **This technique can be further improved by combining Computer Vision with ML to directly classify cancer using tissue images, which can be done through Neural Networks.**
+
+
+## Requirements
+-  Python 3.6
+-  Jupyter Notebook
+
+## Dependecies
+-  numpy
+-  pandas
+-  seaborn
+-  matplotlib
