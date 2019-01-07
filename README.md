@@ -2,7 +2,7 @@
 
 ### K. Sai Mallesh
 
-## Step-1: Problem Statement
+## Problem Statement
 
 -  Predictingk if the cancer diagnosis is **benign** or **malignant** based on several observations/features.
 
