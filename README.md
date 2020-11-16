@@ -1,6 +1,6 @@
 # Case Study: Breast Cancer Classification
 
-### K. Sai Mallesh
+(Data from Kaggle)
 
 ## Problem Statement
 
