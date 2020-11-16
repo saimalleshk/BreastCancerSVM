@@ -1,6 +1,6 @@
 # Case Study: Breast Cancer Classification
 
-(Data from Kaggle)
+(Data from https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin)
 
 ## Problem Statement
 
